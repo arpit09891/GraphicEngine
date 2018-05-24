@@ -1,0 +1,11 @@
+Opened log file "eae6320.log"
+The user settings file "settings.ini" doesn't exist. Using default settings instead.
+Initialized time
+Registered main window class "Arpit's Example Main Window Class"
+Created main window "Arpit's EAE6320 Example Game -- Direct3D"
+Set main window resolution to 512 x 512
+Failed to load texture data from file data/Textures/lara.texture: Windows failed to open the file "data/Textures/lara.texture" for reading: The system cannot find the path specified.
+Application initialization failed!
+Destroyed main window
+Unregistered main window class
+Closing log file
